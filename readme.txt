@@ -1,11 +1,11 @@
-# pour que le projet fonctionne , il faaut avoir:
+# pour que le projet fonctionne : 
 - PIL
 - Tkinter
 - customtkinter
 - reportlab
 - pymysql
 
-# installation :
+# installation des dependances:
 - pip install PIL
 - pip install Tkinter
 - pip install customtkinter
